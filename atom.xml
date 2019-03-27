@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>_Fr4nky&#39;s Note</title>
+  
+  <subtitle>Valar Morghulis</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://ifmung.github.io/"/>
+  <updated>2019-03-27T07:52:44.313Z</updated>
+  <id>https://ifmung.github.io/</id>
+  
+  <author>
+    <name>_Fr4nky</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello</title>
+    <link href="https://ifmung.github.io/2018/12/01/hello/"/>
+    <id>https://ifmung.github.io/2018/12/01/hello/</id>
+    <published>2018-12-01T09:21:37.151Z</published>
+    <updated>2019-03-27T07:52:44.313Z</updated>
+    
+    <summary type="html">
+    
+      &lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;:() &amp;#123; :|:&amp;amp; &amp;#125;;:&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+    
+    </summary>
+    
+      <category term="drafts" scheme="https://ifmung.github.io/categories/drafts/"/>
+    
+    
+  </entry>
+  
+</feed>
